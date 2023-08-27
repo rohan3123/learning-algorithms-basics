@@ -15,7 +15,7 @@ namespace algorithm2
             QuickSort(a,0,a.Length -1);
             for(int i=0;i<a.Length; i++)
             {
-                Console.Write($"(a[i])");
+                Console.Write(a[i]);
             }
             Console.Read();
         }

@@ -1,0 +1,8 @@
+C:\Users\false\Documents\Codestuff\github\learning-algorithms-basics\algorithm2\algorithm2\bin\Debug\algorithm2.exe.config
+C:\Users\false\Documents\Codestuff\github\learning-algorithms-basics\algorithm2\algorithm2\bin\Debug\algorithm2.exe
+C:\Users\false\Documents\Codestuff\github\learning-algorithms-basics\algorithm2\algorithm2\bin\Debug\algorithm2.pdb
+C:\Users\false\Documents\Codestuff\github\learning-algorithms-basics\algorithm2\algorithm2\obj\Debug\algorithm2.csproj.AssemblyReference.cache
+C:\Users\false\Documents\Codestuff\github\learning-algorithms-basics\algorithm2\algorithm2\obj\Debug\algorithm2.csproj.SuggestedBindingRedirects.cache
+C:\Users\false\Documents\Codestuff\github\learning-algorithms-basics\algorithm2\algorithm2\obj\Debug\algorithm2.csproj.CoreCompileInputs.cache
+C:\Users\false\Documents\Codestuff\github\learning-algorithms-basics\algorithm2\algorithm2\obj\Debug\algorithm2.exe
+C:\Users\false\Documents\Codestuff\github\learning-algorithms-basics\algorithm2\algorithm2\obj\Debug\algorithm2.pdb
